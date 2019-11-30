@@ -49,12 +49,6 @@ This repository includes source for a simple weather application to illustrate h
 
 ## Getting Started
 
-### Clone the Repository
-
-Clone the repository from the following location:
-
-    https://github.com/AshrafAlam/vue.pwa.weather.app.git
-
 ### Install
 
 Open command prompt and navigate to the directory where the above source is cloned.
