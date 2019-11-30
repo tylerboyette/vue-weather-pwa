@@ -14,9 +14,6 @@ This repository includes source for a simple weather application to illustrate h
 - Offline ability to view UI and weather data
 - Ability to show offline status
 
-## Give a Star! :star:
-
-If you like or are using this project to learn or start your solution, please give it a [star](https://github.com/AshrafAlam/vue.pwa.weather.app). Thanks!
 
 ![weather web app](./public/img/app-screen.PNG)
 
@@ -66,7 +63,6 @@ Run the following command to install required packages:
 
     yarn install
 
-Check [here](https://yarnpkg.com/lang/en/docs/getting-started/) to get started with yarn package management.
 
 ### Run in Local Environment
 
@@ -82,6 +78,3 @@ Run the following command to build production output to be deployed in productio
 
     yarn build
 
-## References
-* [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
-* [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
